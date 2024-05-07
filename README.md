@@ -1,5 +1,5 @@
 # Project Goal
-The primary objective of this project is to gain practical experience in both Python programming and understanding the functionality of basic malware. By creating a keylogger, we aim to explore the intricacies of capturing keyboard input on a system and logging it for analysis. This project serves as an educational endeavor to understand how such software operates, the potential implications of its usage, and the methods employed to develop and defend against it.
+The primary objective of this project is to gain practical experience in both Python programming and understanding the functionality of basic malware. By creating a keylogger, I aim to explore the intricacies of capturing keyboard input on a system and logging it for analysis. This project serves as an educational endeavor to understand how such software operates, the potential implications of its usage, and the methods employed to develop and defend against it.
 
 Through this project, we seek to achieve the following goals:
 - Learn Python Programming: Utilize Python's features and libraries to develop a functional keylogger capable of capturing keystrokes on various platforms.
