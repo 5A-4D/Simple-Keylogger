@@ -12,17 +12,17 @@ Through this project, we seek to achieve the following goals:
 # Code
 As I delve into Python, I'm uncovering a world of possibilities. Through this project, I'm learning its syntax, understanding its data structures, and grasping its core concepts. In this code I was able to import packages and create/amend files.</br> 
 
-<img src="https://cdn.discordapp.com/attachments/1237130346454057052/1237132523696422952/image.png?ex=663a88f2&is=66393772&hm=db5b2fb09d0814d8745d9de3b04c12da9a66791fae9f083f98b50dd4171d1ce2&">
-<img src="https://cdn.discordapp.com/attachments/1237130346454057052/1237141102583222303/image.png?ex=663a90ef&is=66393f6f&hm=e3199ca1927be649af70a0278443e7bacdd68a2089ad089a5a87689958ec2409&">
+<img src="https://i.imgur.com/ukuT019.png">
+<img src="https://i.imgur.com/T9dXYxg.png">
 
 # Live Console
 Here I was able to see my keystrokes being made in real time </br>
-<img src="https://cdn.discordapp.com/attachments/1237130346454057052/1237144067922464778/temp.png?ex=663a93b2&is=66394232&hm=e7b31ab474cdc5053d10e137437d9fb55d525fec8f4053590da3d38a8f1ba826&">
+<img src="https://i.imgur.com/Fq5ZJW9.png">
 
 # Save File
 Here was the save file that contains all the keystrokes. </br>
 In a future project I will try to email this out via a SMTP email service
-<img src="https://cdn.discordapp.com/attachments/1237130346454057052/1237138582901231708/image.png?ex=66412617&is=663fd497&hm=fded24e81d868035900b98789e450505e9f770503772b08fdce34fdfe9d864b2&">
+<img src="https://i.imgur.com/NGjvf56.png">
 
 # Conclusion 
 In conclusion, this project has been a comprehensive exploration into the realm of Python programming and basic malware concepts. Through developing a keylogger, I gained practical experience in Python syntax, data structures, and core concepts. I deepened my understanding of how keylogging techniques function and the potential implications they pose in terms of privacy and security.
